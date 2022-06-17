@@ -12,4 +12,6 @@
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="vkontakte Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-Denis-Ostapenko&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-Denis-Ostapenko&style=flat-square&color=blue" alt=""/>
+</div>
