@@ -16,6 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-Denis-Ostapenko&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
