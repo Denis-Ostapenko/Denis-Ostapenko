@@ -27,7 +27,7 @@
 ### :man_technologist: Обо мне :
 - :telescope: Я работаю frontend разработчиком и участвую в создании внешнего интерфейса веб-приложений.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Развиваюсь и совершенствую навыки.
 
 - Люблю приятный и привлекательный дизайн.
 
