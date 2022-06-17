@@ -1,1 +1,10 @@
-<div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="https://giphy.com/embed/dKc2fBq97S9gIzLX2j" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/bug-error-bugs-dKc2fBq97S9gIzLX2j">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="100"/>
+</div>
+
+
+
+<iframe src="https://giphy.com/embed/IeRdg7gLkfK1ly2mFU" width="345" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/PLCnext-transparent-IeRdg7gLkfK1ly2mFU">via GIPHY</a></p>
