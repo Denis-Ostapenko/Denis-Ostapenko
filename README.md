@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-Denis-Ostapenko&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Denis-Ostapenko&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
@@ -29,8 +29,8 @@
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 
+- :mailbox:Как со мной связаться: [![Telegram Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white))](https://t.me/Denis_ostapen)
 
 ---
 
