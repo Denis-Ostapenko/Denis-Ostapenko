@@ -20,6 +20,9 @@
 
 ### :man_technologist: About Me :
 
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
@@ -37,6 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denis-Ostapenko&theme=dark&background=000000)](https://git.io/streak-stats)
