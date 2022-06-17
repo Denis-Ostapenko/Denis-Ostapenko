@@ -29,7 +29,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: В свободное время я играю в компьютерные игры [![Steam Badge](https://img.shields.io/badge/Steam-black?&logo=steam&logoColor=white)]([https://t.me/Denis_ostapen](https://steamcommunity.com/profiles/76561199220289119/)).
+- :zap: В свободное время я играю в компьютерные игры [![Steam Badge](https://img.shields.io/badge/Steam-black?&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199220289119/).
 
 - :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?&logo=telegram&logoColor=white)](https://t.me/Denis_ostapen)
 
