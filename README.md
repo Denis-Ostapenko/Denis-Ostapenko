@@ -35,3 +35,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denis-Ostapenko&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Ostapenko)](https://github.com/anuraghazra/github-readme-stats)
