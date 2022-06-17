@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: Обо мне :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Я работаю frontend разработчиком и участвую в создании внешнего интерфейса веб-приложений.
 
 - :seedling: Exploring Technical Content Writing.
 
