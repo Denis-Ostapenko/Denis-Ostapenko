@@ -17,8 +17,9 @@
 </div>
 
 <h1 align="center">
-  Привет!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height ="30px"/>
+  Привет разработчики.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height ="30px"/>.
+  Я Денис frontend developer.
 </h1>
 
 ---
