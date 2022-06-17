@@ -30,7 +30,8 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 
-- :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Denis_ostapen)
+- <div align="center">:mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Denis_ostapen)
+  </div>
 
 ---
 
