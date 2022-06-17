@@ -29,7 +29,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: В свободное время я играю в компьютерные игры.
 
 - :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?&logo=telegram&logoColor=white)](https://t.me/Denis_ostapen)
 
