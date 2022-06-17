@@ -3,13 +3,13 @@
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Denis_ostapen">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BE%D1%81%D1%82%D0%B0%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE-916678233/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/denis32">
-    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/VKontakte-black?style=for-the-badge&logo=VK&logoColor=white" alt="vkontakte Badge"/>
   </a>
 </div>
 <div align="center">
