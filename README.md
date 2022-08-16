@@ -5,7 +5,7 @@
   <a href="https://t.me/Denis_ostapen">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https:https://www.linkedin.com/in/denis-ostapenko/">
+  <a href="https://www.linkedin.com/in/denis-ostapenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/denis32">
