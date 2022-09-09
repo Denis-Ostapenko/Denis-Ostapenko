@@ -37,7 +37,7 @@
 
 ---
 
-### :hammer_and_wrench: Проекты :
+### :factory: Проекты :
 
 #### Messenger
 Ссылка на проект: (Тестовая аутентификация: Логин и пароль: 12345) https://denis-ostapenko.github.io/messenger/#/
