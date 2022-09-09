@@ -37,6 +37,22 @@
 
 ---
 
+### :hammer_and_wrench: Проекты :
+
+# Messenger
+Ссылка на проект: (Тестовая аутентификация: Логин и пароль: 12345) https://denis-ostapenko.github.io/messenger/#/
+Ссылка на репозиторий: https://github.com/Denis-Ostapenko/messenger
+
+# Blog
+Ссылка на проект: https://denis-ostapenko.github.io/Blog-App/#/articles
+Ссылка на репозиторий: https://github.com/Denis-Ostapenko/Blog-App
+
+# Aviasales
+Ссылка на проект: https://denis-ostapenko.github.io/Aviasales-App/
+Ссылка на репозиторий: https://github.com/Denis-Ostapenko/Aviasales-App
+
+---
+
 ### :hammer_and_wrench: Языки и инструменты :
 
 <div align="center">
